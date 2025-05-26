@@ -15,3 +15,17 @@ To view these projects:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Tarunkumarreddyyaramala/Html-Basic-Projects.git
+
+
+## Technologies Used
+**HTML5**
+
+## Contribution
+Feel free to fork the repository and submit pull requests for improvements or additional projects.
+
+## License
+This repository is open source and available under the MIT License.
+
+## Happy Cpding!
+
+If you'd like, I can also generate a license file or help you customize it more — just ask! Would you like me to save this as a README.md file for you?
