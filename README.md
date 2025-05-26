@@ -26,6 +26,6 @@ Feel free to fork the repository and submit pull requests for improvements or ad
 ## License
 This repository is open source and available under the MIT License.
 
-## Happy Cpding!
+## Happy Coding!
 
 If you'd like, I can also generate a license file or help you customize it more — just ask! Would you like me to save this as a README.md file for you?
